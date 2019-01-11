@@ -1,5 +1,5 @@
 # buck_dir
-The function makes recursively gztar archive directory contents
+The function makes recursively gztar archive directory contents</br>
  Функция делает рекурсивно gztar архив содержимого каталога
     :param s: в каталог :param d: с именем :param s + current_datetime.
     Если каталог :param d отсутствует, то он будет создан.
