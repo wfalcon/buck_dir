@@ -9,3 +9,4 @@ The function makes recursively gztar archive directory contents</br>
     'tar',   'uncompressed tar file',</br>
     'xztar', "xz'ed tar-file",</br>
     'zip',   'ZIP file'</br>
+-------------------------------------------------------------------------------
